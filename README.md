@@ -1,6 +1,5 @@
-(![Cópia de LinkedIn banner templates](https://github.com/LorenzoLocker12/LorenzoLocker12/assets/127125142/167c7e78-8b99-4828-a85d-19cc1b4afb4f)
-)]
-<h1 align="center">Hi 👋, I'm Lorenzo Locker</h1>
+<h1 align="cen![Cópia de LinkedIn banner templates](https://github.com/LorenzoLocker12/LorenzoLocker12/assets/127125142/2b299896-c5ec-4085-a069-544c4ceb3348)
+ter">Hi 👋, I'm Lorenzo Locker</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
