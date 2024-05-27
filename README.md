@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzolocker12&show_icons=true&locale=en" alt="lorenzolocker12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzolocker12&" alt="lorenzolocker12" /></p>
-<img align="center" alt="banner" width="400" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://camo.githubusercontent.com/c954b0944ff37e1954ae29027597e26fa354e6f54048ead583c822551b45e265/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d373835324443266865696768743d3132302673656374696f6e3d666f6f746572)"> 
+
