@@ -1,7 +1,7 @@
-<h1 align="cen![Cópia de LinkedIn banner templates](https://github.com/LorenzoLocker12/LorenzoLocker12/assets/127125142/2b299896-c5ec-4085-a069-544c4ceb3348)
-ter">Hi 👋, I'm Lorenzo Locker</h1>
+![Cópia de LinkedIn banner templates](https://github.com/LorenzoLocker12/LorenzoLocker12/assets/127125142/d7ff16e0-7f2d-4226-b5e2-3f8355eb453f)
+<h1 align="center">Hi 👋, I'm Lorenzo Locker</h1>
 <h3 align="center">A passionate backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzolocker12&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzolocker12" /> </p>
 
@@ -25,3 +25,4 @@ ter">Hi 👋, I'm Lorenzo Locker</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzolocker12&show_icons=true&locale=en" alt="lorenzolocker12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzolocker12&" alt="lorenzolocker12" /></p>
+
