@@ -1,4 +1,4 @@
-[![Cópia de LinkedIn banner templates](https://github.com/LorenzoLocker12/LorenzoLocker12/assets/127125142/d7ff16e0-7f2d-4226-b5e2-3f8355eb453f)](https://camo.githubusercontent.com/65a6856f64de2b304a8569b1761bae074ffef9a4a6525e1a8fb4ec1eef30a502/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d373835324443266865696768743d3132302673656374696f6e3d686561646572)
+
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> 
 
