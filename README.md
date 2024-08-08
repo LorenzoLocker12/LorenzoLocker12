@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my Scientific Research**
 
-- 💬 Ask me about **Android, Java, Spring & SpringBoot**
+- 💬 Ask me about **Data Science and Machine learning**
 
 - 📫 How to reach me **lo.locker1202@gmail.com**
 
