@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **lo.locker1202@gmail.com**
 
-- My Portifolio: https://lorenzo-locker.vercel.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
